@@ -1,3 +1,32 @@
+# HomeWork
+
+## 1. GPT-4V
+**代码定位**
+
+https://github.com/Ashen-You/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb
+
+**执行截图**
+![](snapshots/homework1.png)
+
+## 2. open-translator
+**执行代码**
+
+```py
+python ai_translator/main.py --model_type OpenAIModel --file_format markdown --book tests/test.pdf --openai_model gpt-3.
+5-turbo --target_language 日文
+```
+
+**执行截图**
+![](snapshots/homework2.png)
+
+## 3. lang chain
+**代码定位**
+
+https://github.com/Ashen-You/openai-quickstart/blob/main/langchain/jupyter/chains/router_chain.ipynb
+
+**执行截图**
+![](snapshots/homework3.png)
+
 # OpenAI 快速入门
 
 <p align="center">
