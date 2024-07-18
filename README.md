@@ -27,6 +27,15 @@ https://github.com/Ashen-You/openai-quickstart/blob/main/langchain/jupyter/chain
 **执行截图**
 ![](snapshots/homework3.png)
 
+## 4. iPhone Sales Chatbot
+**GPT Data**
+![](snapshots/iphone_sales_data.png)
+
+**代码定位**
+
+https://github.com/Ashen-You/openai-quickstart/blob/main/langchain/iphone_sales_chatbot/sales.ipynb
+
+
 # OpenAI 快速入门
 
 <p align="center">
