@@ -33,7 +33,7 @@ https://github.com/Ashen-You/openai-quickstart/blob/main/langchain/jupyter/chain
 
 **代码定位**
 
-https://github.com/Ashen-You/openai-quickstart/blob/main/langchain/iphone_sales_chatbot/sales.ipynb
+https://github.com/Ashen-You/openai-quickstart/blob/main/langchain/iPhone_sales_chatbot/sales.ipynb
 
 
 # OpenAI 快速入门
